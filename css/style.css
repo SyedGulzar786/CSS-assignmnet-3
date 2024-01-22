@@ -1,40 +1,155 @@
-.head-two { height: 100px; width: 100%; display: flex; justify-content: center; }
+body { margin: 0px; }
+
+.head-two { height: 100px; width: 100%; display: flex; justify-content: center; margin-top: 0px; }
+
+* { font-family:Verdana, Geneva, Tahoma, sans-serif; }
+
 .box { width: 140px; height: 90px; border-bottom: 7px solid ; text-align: center; padding-top: 10px; font-size: 10px; color:#919191; font-weight: 600; }
+
 .one { border-color: #919191; }
+
 .one:hover { background-color: #919191; color: white; }
+
 .two { border-color: #e3350d; }
+
 .two:hover { background-color: #e3350d; color: white; }
+
 .three { border-color: #ee6b2f; }
+
 .three:hover { background-color: #ee6b2f; color: white; }
+
 .four { border-color: #e6bc2f; }
+
 .four:hover { background-color:  #e6bc2f; color: white; }
+
 .five { border-color: #4dad5b; }
+
 .five:hover { background-color: #4dad5b; color: white; }
+
 .six { border-color: #30a7d7; }
+
 .six:hover { background-color: #30a7d7; color: white; }
+
 .seven { border-color: #1b53ba; }
+
 .seven:hover { background-color: #1b53ba; color: white;} 
-.babe { font-size: 17px !important; }
+
+.babe { font-size: 17px !important;}
+
 .material-symbols-outlined { font-size: 32px !important; padding-bottom: 0px !important; }
-* { text-transform: capitalize; }
-.body { width: 100%; height: 100%; background: #424242 url(https://assets.pokemon.com/static2/_ui/img/chrome/body_bg.png); text-align: center; }
-.manju { width: 1440px; height: 100%; background-color: white; margin: 0px auto;  } 
-.imagica { background-color: aqua; }
-.imagine { background-color: burlywood; }
-.sabuz { height:  ; width: 1000px; margin: 50px auto; } 
+
+.body { width: 100%; height: 2800px; background: #424242 url(https://assets.pokemon.com/static2/_ui/img/chrome/body_bg.png); text-align: center; }
+
+.manju { width: 1300px; height: 96%; background-color: white; margin: 0px auto;  } 
+
+.imagica { position: relative; }
+
+.sabuz { width: 1000px; margin: 50px auto; display: flex; } 
+
 .abudabi {  width: 100%; display: flex; justify-content: center; }
-.img-a { background-color: #e6bc2f; }
+
+.img-a { background-color: #e6bc2f; width: 620px;  }
+
 .img-b { background-color: #c7aa79; }
-.img-c { background-color: #a4a4a4; }
+
+.img-c { background-color: #a4a4a4; position: absolute; top: 555px; left: 320px; }
+
 .imt-a { background-color: #734bb2; }
+
 .imt-b { background-color: #1b53ba; }
+
 .imt-c { background-color: #ee6b2f; }
+
 .first-a { background-color: #a4a4a4; }
+
 .first-b { background-color: #30a7d7; }
+
 .second-a { background-color: #313131; }
+
 .second-b { background-color: #e6bc2f; }
+
 .third-a { background-color:  #4dad5b; }
+
 .third-b { background-color: #1b53ba; }
+
 .vito { color: white; }
+
 .unique { color: #a4a4a4; }
 
+.img-a:hover { background-color: #c79c10; }
+
+.img-b:hover { background-color: #a79069; }
+
+.img-c:hover { background-color: #858383; }
+
+.imt-a:hover { background-color: #6641a1; }
+
+.imt-b:hover { background-color: #194ba7; }
+
+.imt-c:hover { background-color: #c45724; }
+
+.first-a:hover { background-color: #7c7a7a; }
+
+.first-b:hover { background-color: #2587ad; }
+
+.second-a:hover { background-color: #272727; }
+
+.second-b:hover { background-color: #bd9925; }
+
+.third-a:hover { background-color:  #3e8f4a; }
+
+.third-b:hover { background-color: #154399; }
+
+.sizes { width: 300px; }
+
+.pumpkinfit { width: 100%; }
+
+.round  { border-radius: 2%; margin: 10px; }
+
+.gol { border-radius: 2%; }
+
+.paddel { padding: 20px; text-align: left; }
+
+.imt-b { display: flex; height: 171px;}  
+
+.section-title { text-align: left; margin: 20px 10px; }
+
+.baabu { font-size: 13px; text-transform: capitalize; }
+
+.poke-slider { width: 1300px; background-color: #232323; display: flex; }
+
+.single-poke { width: 144px; height: 450px; margin: 2px; background-color: #4dad5b; }
+
+.poke-pic { background-color: #616161;  height: 65%;}
+
+.poke-detail { background-color: #313131; height: 35%; }
+
+.sayclick { width: 100%; height: 100%; }
+
+.naming { width: 1300px; display: flex; position: absolute; left: 310px; top: 1580px;}
+
+.raamukaka { width: 144px; height: 140px; padding: 20px; background-color: transparent; color: white; font-size: 20px; }
+
+.flex { display: flex; }
+
+.bheja { width: 100px; height: 80px; border-left: 1px solid grey; }
+
+.maalumaat { padding: 2px; width: 200px; height: 78px; }
+
+.maalumaat :hover {  opacity: 0.9; }
+
+.hakim { text-align: center; display: flex; justify-content: center; margin: 0px; border-bottom: 1px solid grey; }
+
+.ppc { width: 90%; margin-top: 10px;}
+
+.abhi-nahi { box-shadow: 1px 1px 10px 2px #272727; }
+
+.hail-one { background-color: #369143; height: 65%; text-align: center; padding-top: 4px; }
+
+.login-signup { margin-top: 10px;}
+
+.account { margin-top: 10px; }
+
+.hail-two { background-color: #616161; height: 43px; text-align: center; padding-top: 10px; font-size: 20px !important;} 
+
+.lookout { width: 70px; height: 160px;  position: absolute; top: 200px; left: 303px; border: 2px solid black; }
