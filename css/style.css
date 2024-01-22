@@ -1,0 +1,40 @@
+.head-two { height: 100px; width: 100%; display: flex; justify-content: center; }
+.box { width: 140px; height: 90px; border-bottom: 7px solid ; text-align: center; padding-top: 10px; font-size: 10px; color:#919191; font-weight: 600; }
+.one { border-color: #919191; }
+.one:hover { background-color: #919191; color: white; }
+.two { border-color: #e3350d; }
+.two:hover { background-color: #e3350d; color: white; }
+.three { border-color: #ee6b2f; }
+.three:hover { background-color: #ee6b2f; color: white; }
+.four { border-color: #e6bc2f; }
+.four:hover { background-color:  #e6bc2f; color: white; }
+.five { border-color: #4dad5b; }
+.five:hover { background-color: #4dad5b; color: white; }
+.six { border-color: #30a7d7; }
+.six:hover { background-color: #30a7d7; color: white; }
+.seven { border-color: #1b53ba; }
+.seven:hover { background-color: #1b53ba; color: white;} 
+.babe { font-size: 17px !important; }
+.material-symbols-outlined { font-size: 32px !important; padding-bottom: 0px !important; }
+* { text-transform: capitalize; }
+.body { width: 100%; height: 100%; background: #424242 url(https://assets.pokemon.com/static2/_ui/img/chrome/body_bg.png); text-align: center; }
+.manju { width: 1440px; height: 100%; background-color: white; margin: 0px auto;  } 
+.imagica { background-color: aqua; }
+.imagine { background-color: burlywood; }
+.sabuz { height:  ; width: 1000px; margin: 50px auto; } 
+.abudabi {  width: 100%; display: flex; justify-content: center; }
+.img-a { background-color: #e6bc2f; }
+.img-b { background-color: #c7aa79; }
+.img-c { background-color: #a4a4a4; }
+.imt-a { background-color: #734bb2; }
+.imt-b { background-color: #1b53ba; }
+.imt-c { background-color: #ee6b2f; }
+.first-a { background-color: #a4a4a4; }
+.first-b { background-color: #30a7d7; }
+.second-a { background-color: #313131; }
+.second-b { background-color: #e6bc2f; }
+.third-a { background-color:  #4dad5b; }
+.third-b { background-color: #1b53ba; }
+.vito { color: white; }
+.unique { color: #a4a4a4; }
+
